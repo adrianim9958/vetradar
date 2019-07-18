@@ -1,0 +1,11 @@
+.header .nav-item {
+  margin-right: 1rem;
+}
+
+.header .nav-item a {
+  color: #fff;
+}
+
+.badge {
+  transform: translateX(3px) translateY(-10px);
+}

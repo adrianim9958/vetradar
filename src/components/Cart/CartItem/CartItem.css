@@ -1,0 +1,8 @@
+.cart-item-title {
+  text-transform: capitalize;
+  font-size: 1.2rem;
+}
+
+.cart-item-price {
+  font-size: 1.2rem;
+}
